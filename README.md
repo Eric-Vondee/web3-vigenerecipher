@@ -7,4 +7,5 @@ Using Vigenere Cipher for Encryption
 
 ## Tools Used 
 - nanoid: This is library was used to randomize the cipher key so that it won't be easily crackeable
--prompt: to accept user's iput from the terminal
+
+- prompt: to accept user's iput from the terminal
